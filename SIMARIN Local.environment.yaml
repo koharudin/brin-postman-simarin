@@ -1,0 +1,22 @@
+name: SIMARIN Local
+values:
+  - key: base_url
+    value: ''
+  - key: simarin_token
+    value: ''
+  - key: minio_url
+    value: 'http://localhost:9000'
+  - key: minio_accesskey
+    value: demo
+  - key: minio_secret
+    value: miniodemo
+  - key: minio_bucket
+    value: test
+  - key: access_token
+    value: ''
+  - key: sso_token
+    value: ''
+  - key: datahub_token
+    value: ''
+  - key: app_token
+    value: ''
